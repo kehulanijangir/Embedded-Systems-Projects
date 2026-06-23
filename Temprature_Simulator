@@ -1,0 +1,29 @@
+# Temperature Simulator
+
+## Overview
+
+This project simulates temperature monitoring using Arduino and a temperature sensor in Tinkercad.
+
+## Components Used
+
+* Arduino Uno
+* Temperature Sensor
+* Breadboard
+* Jumper Wires
+
+## Working
+
+The temperature sensor continuously measures temperature values. The Arduino reads the sensor data and processes the temperature readings.
+
+## Applications
+
+* Weather Monitoring
+* Smart Home Systems
+* Environmental Monitoring
+
+## Skills Learned
+
+* Sensor Interfacing
+* Analog Input Reading
+* Arduino Programming
+* Data Monitoring
